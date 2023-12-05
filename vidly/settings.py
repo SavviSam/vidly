@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-ojyxnjq=a=(f!k$-(go8f1!gm3_@$zt107o_74)=j0j*e+82ii
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vidly-movies-ffa803f8d6b4.herokuapp.com']
+ALLOWED_HOSTS = ["vidly-movies-ffa803f8d6b4.herokuapp.com"]
 
 
 # Application definition
